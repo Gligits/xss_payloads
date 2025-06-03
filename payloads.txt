@@ -1,3 +1,4 @@
+"><x oncontentvisibilityautostatechange=alert?.(1)+style%3dcontent-visibility%3aauto>
 qux.quux(corge).grault()
 $(ls|echo hello)
 dancePartySerializer()?.(42)

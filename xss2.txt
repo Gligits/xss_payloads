@@ -27,8 +27,3 @@ myFunction?.(123)
 &lt
 <body><script>while(true);</script></body>
 <!— invalid comment —>
-<banana onerr0r=alert1>
-<cherry onclickFoo=bar()>
-<framboise src="javascript1:alert(1)">
-<svg onbanane=alert2()>
-<iframe srcdoc="<apple/onload=foo()">```
